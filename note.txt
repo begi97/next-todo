@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=ZKG8JBdgSos&list=PLMIKhW5c47rSa-Y0UtbBsMNxvAlOPyy_b&index=36&ab_channel=ZachGollwitzer
+
+22:44
+
+1) dynamic imports
+2) static data fetching with revalidation or getserversideprops
+3) client side rendering for userspecific pages and data
+4) useSWR in nextjs -> https://swr.vercel.app/
+5) don't forget Head component in next js for better SEO
+6) why en-get-filters rendered twice?
+7) next js lazy loading
